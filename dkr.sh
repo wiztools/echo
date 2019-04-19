@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build -t subwiz/upstream .
-docker push subwiz/upstream
+docker build -t wiztools/echo .
+docker push wiztools/echo
